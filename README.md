@@ -6,4 +6,6 @@ Requesting Data... First, you'll set up a python socket. I created a sample one 
 
 Receiving Data...The server will take the list and check it against a list of fruits. Then it will return data as JSON in a list of booleans. The list indicated True for fruits and False for non-fruits. The server will return an error if something goes wrong. 
 
+The following image is a an UML diagram that illistrates what will be happening with the code. 
+
 ![server-client](https://user-images.githubusercontent.com/83997457/180904410-1fae6f22-db16-4cd2-9f50-37c75bb6cf7b.png)
